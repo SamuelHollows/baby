@@ -19,8 +19,3 @@ Then open <http://localhost:8000> in a browser. Stop the local server with Ctrl+
   - <https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/Avocado>
   - <https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/WaterBottle>
 
-Babylon.js and the glTF loader are loaded from the Babylon.js CDN, so the page also needs an internet connection.
-
-## GitHub Pages
-
-The folder is ready to publish as the root of a GitHub Pages site. Once published, the site URL can be used to generate a QR code for the class presentation.
